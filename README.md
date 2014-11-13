@@ -7,11 +7,11 @@ Visual Studio 2013 OR .NET Framework 4.5.1 with SignalR libraries
 
  - Download the source code
  - SouceCode View
- ![enter image description here](step1.PNG) 
+ ![enter image description here](https://github.com/sunilpottumuttu/IronPython-Shell-SignalR/blob/master/Docs/step1.PNG) 
  - Run Server
- ![enter image description here](step2.PNG) 
- ![enter image description here](step3.PNG) 
-- Run Client
-![enter image description here](step4.PNG) 
-![enter image description here](step5.PNG) 
+ ![enter image description here](https://github.com/sunilpottumuttu/IronPython-Shell-SignalR/blob/master/Docs/step2.PNG) 
+ ![enter image description here](https://github.com/sunilpottumuttu/IronPython-Shell-SignalR/blob/master/Docs/step3.PNG) 
+ - Run Client
+ ![enter image description here](https://github.com/sunilpottumuttu/IronPython-Shell-SignalR/blob/master/Docs/step4.PNG) 
+ ![enter image description here](https://github.com/sunilpottumuttu/IronPython-Shell-SignalR/blob/master/Docs/step5.PNG) 
 
